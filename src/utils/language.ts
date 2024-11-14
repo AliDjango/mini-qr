@@ -7,6 +7,7 @@ const languageMap: Record<string, string> = {
   en: 'English',
   es: 'Spanish',
   et: 'Estonian',
+  fa: 'Farsi',
   fi: 'Finnish',
   fr: 'French',
   hu: 'Hungarian',

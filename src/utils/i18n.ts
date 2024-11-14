@@ -7,6 +7,7 @@ import el from '../../locales/el.json'
 import en from '../../locales/en.json'
 import es from '../../locales/es.json'
 import et from '../../locales/et.json'
+import fa from '../../locales/fa.json'
 import fi from '../../locales/fi.json'
 import fr from '../../locales/fr.json'
 import hu from '../../locales/hu.json'
@@ -31,7 +32,7 @@ import uk from '../../locales/uk.json'
 import zh from '../../locales/zh.json'
 
 export const i18n = createI18n({
-  locale: 'en',
+  locale: 'fa',
   legacy: false,
   messages: {
     bg,
@@ -42,6 +43,7 @@ export const i18n = createI18n({
     en,
     es,
     et,
+    fa,
     fi,
     fr,
     hu,
